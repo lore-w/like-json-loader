@@ -1,0 +1,27 @@
+{
+  "name": "like-json-loader",
+  "version": "1.0.0",
+  "description": "like-json-loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Lore-w",
+    "email": "metro-cpu@hotmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lore-w/like-json-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "json"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "loader-utils": "^1.1.0",
+    "lodash": "^4.17.4"
+  }
+}
